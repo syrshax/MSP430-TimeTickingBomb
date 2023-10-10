@@ -1,1 +1,0 @@
-"./cs.obj" "./lcd.obj" "./lpiu.obj" "./main.obj" "./msp430ports.obj" "./pt.obj" "./st.obj" "./teclado.obj" "../lnk_msp430fr6989.cmd" -llibmpu_init.a -llibmath.a -llibc.a 
